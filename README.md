@@ -4,6 +4,11 @@
 
 A comprehensive, responsive weather application built with vanilla HTML, CSS, and JavaScript. Features real-time weather data, location search, favorites system, and delightful animations.
 
+## 👨‍💻 Authors
+
+- **Vlerart Selcai**
+- **Gent Maxhuni**
+
 ## 🌟 Features Implemented
 
 ### Core Requirements ✅
